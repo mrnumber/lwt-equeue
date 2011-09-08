@@ -1,1 +1,1 @@
-<*> : pkg_lwt-equeue
+<*> : pkg_lwt,pkg_lwt-equeue
